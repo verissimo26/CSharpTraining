@@ -1,0 +1,15 @@
+C:\Users\IgdeV\Desktop\Enums\Enums\bin\Debug\net6.0\OrderStatus.exe
+C:\Users\IgdeV\Desktop\Enums\Enums\bin\Debug\net6.0\OrderStatus.deps.json
+C:\Users\IgdeV\Desktop\Enums\Enums\bin\Debug\net6.0\OrderStatus.runtimeconfig.json
+C:\Users\IgdeV\Desktop\Enums\Enums\bin\Debug\net6.0\OrderStatus.dll
+C:\Users\IgdeV\Desktop\Enums\Enums\bin\Debug\net6.0\OrderStatus.pdb
+C:\Users\IgdeV\Desktop\Enums\Enums\obj\Debug\net6.0\OrderStatus.csproj.AssemblyReference.cache
+C:\Users\IgdeV\Desktop\Enums\Enums\obj\Debug\net6.0\OrderStatus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IgdeV\Desktop\Enums\Enums\obj\Debug\net6.0\OrderStatus.AssemblyInfoInputs.cache
+C:\Users\IgdeV\Desktop\Enums\Enums\obj\Debug\net6.0\OrderStatus.AssemblyInfo.cs
+C:\Users\IgdeV\Desktop\Enums\Enums\obj\Debug\net6.0\OrderStatus.csproj.CoreCompileInputs.cache
+C:\Users\IgdeV\Desktop\Enums\Enums\obj\Debug\net6.0\OrderStatus.dll
+C:\Users\IgdeV\Desktop\Enums\Enums\obj\Debug\net6.0\refint\OrderStatus.dll
+C:\Users\IgdeV\Desktop\Enums\Enums\obj\Debug\net6.0\OrderStatus.pdb
+C:\Users\IgdeV\Desktop\Enums\Enums\obj\Debug\net6.0\OrderStatus.genruntimeconfig.cache
+C:\Users\IgdeV\Desktop\Enums\Enums\obj\Debug\net6.0\ref\OrderStatus.dll

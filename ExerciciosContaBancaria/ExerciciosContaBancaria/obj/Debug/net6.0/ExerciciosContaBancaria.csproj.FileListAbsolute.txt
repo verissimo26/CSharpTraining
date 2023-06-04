@@ -1,0 +1,15 @@
+C:\Users\IgdeV\Desktop\ExerciciosContaBancaria\ExerciciosContaBancaria\obj\Debug\net6.0\ExerciciosContaBancaria.csproj.AssemblyReference.cache
+C:\Users\IgdeV\Desktop\ExerciciosContaBancaria\ExerciciosContaBancaria\obj\Debug\net6.0\ExerciciosContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IgdeV\Desktop\ExerciciosContaBancaria\ExerciciosContaBancaria\obj\Debug\net6.0\ExerciciosContaBancaria.AssemblyInfoInputs.cache
+C:\Users\IgdeV\Desktop\ExerciciosContaBancaria\ExerciciosContaBancaria\obj\Debug\net6.0\ExerciciosContaBancaria.AssemblyInfo.cs
+C:\Users\IgdeV\Desktop\ExerciciosContaBancaria\ExerciciosContaBancaria\obj\Debug\net6.0\ExerciciosContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\IgdeV\Desktop\ExerciciosContaBancaria\ExerciciosContaBancaria\bin\Debug\net6.0\ExerciciosContaBancaria.exe
+C:\Users\IgdeV\Desktop\ExerciciosContaBancaria\ExerciciosContaBancaria\bin\Debug\net6.0\ExerciciosContaBancaria.deps.json
+C:\Users\IgdeV\Desktop\ExerciciosContaBancaria\ExerciciosContaBancaria\bin\Debug\net6.0\ExerciciosContaBancaria.runtimeconfig.json
+C:\Users\IgdeV\Desktop\ExerciciosContaBancaria\ExerciciosContaBancaria\bin\Debug\net6.0\ExerciciosContaBancaria.dll
+C:\Users\IgdeV\Desktop\ExerciciosContaBancaria\ExerciciosContaBancaria\bin\Debug\net6.0\ExerciciosContaBancaria.pdb
+C:\Users\IgdeV\Desktop\ExerciciosContaBancaria\ExerciciosContaBancaria\obj\Debug\net6.0\ExerciciosContaBancaria.dll
+C:\Users\IgdeV\Desktop\ExerciciosContaBancaria\ExerciciosContaBancaria\obj\Debug\net6.0\refint\ExerciciosContaBancaria.dll
+C:\Users\IgdeV\Desktop\ExerciciosContaBancaria\ExerciciosContaBancaria\obj\Debug\net6.0\ExerciciosContaBancaria.pdb
+C:\Users\IgdeV\Desktop\ExerciciosContaBancaria\ExerciciosContaBancaria\obj\Debug\net6.0\ExerciciosContaBancaria.genruntimeconfig.cache
+C:\Users\IgdeV\Desktop\ExerciciosContaBancaria\ExerciciosContaBancaria\obj\Debug\net6.0\ref\ExerciciosContaBancaria.dll
